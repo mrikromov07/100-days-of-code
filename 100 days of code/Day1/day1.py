@@ -1,0 +1,10 @@
+print('Hello world')
+print ( " Hello" + " " +"Nasibjon")
+print("Day1 string manipulation")
+print('String concetenation is done with the "+" sign.')
+print('e.g print("Hello" + "world")')
+print("New lines can be created with a backslash n (/n) ")
+
+name = input("What is your name?"+" ")
+n=len(name)
+print('There are',n , 'characters in your name!')
